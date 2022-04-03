@@ -27,8 +27,8 @@ local attach_mappings = function(prompt_bufnr, map)
 end
 
 local script_finder = finders.new_oneshot_job (
-  {'jq', '.scripts', 'package.json'},
-  { entry_maker = entry_maker }
+{'jq', '.scripts', 'package.json'},
+{ entry_maker = entry_maker }
 )
 
 local node_scripts = function(opts)
