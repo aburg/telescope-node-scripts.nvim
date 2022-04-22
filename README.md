@@ -3,7 +3,7 @@ A telescope picker that runs scripts from your node package.json
 
 ## Required dependencies
 
-[jq](https://stedolan.github.io/jq/) (used for parsing JSON files)
+* [jq](https://stedolan.github.io/jq/) (used for parsing JSON files)
 
 ## Installation
 
