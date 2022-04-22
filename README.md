@@ -21,7 +21,4 @@ use {
 
 ## TODO
 
-* yarn support
 * dropdown picker
-* command preview?
-* run config (everything is currently being run in a righthand terminal)
